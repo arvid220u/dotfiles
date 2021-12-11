@@ -1,4 +1,4 @@
-Using `fish` instead of `bash` is much nicer. Install it. Install `fisher`. Install `bass` so as to be able to source bash in fish (useful for eg `gcloud`), and put `bash source ~/.bash_profile` in `.config/fish/config.fish`.
+Using `fish` instead of `bash` is much nicer. Install it. Install `fisher`. Install `bass` so as to be able to source bash in fish (useful for eg `gcloud`), and put `bass source ~/.bash_profile` in `.config/fish/config.fish`.
 
 https://github.com/ghaiklor/iterm-fish-fisher-osx
 
