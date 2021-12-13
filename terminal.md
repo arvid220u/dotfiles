@@ -10,3 +10,5 @@ useful for git:
 git config --global alias.lol "log --graph --oneline --decorate --color --all"
 
 Jupyter lab nicer window: `http://christopherroach.com/articles/jupyterlab-desktop-app/`
+
+Use cloudflare DNS instead: update DNS server to `1.1.1.1`. More reliable.
