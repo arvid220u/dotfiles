@@ -5,3 +5,4 @@ git config --global alias.lol "log --graph --oneline --decorate --color --all"
 
 # brew install things
 brew install fish
+brew install bat
